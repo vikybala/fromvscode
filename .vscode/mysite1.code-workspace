@@ -4,7 +4,7 @@
 			"path": "d:/mysite1/"
 		}
 	],
-	"settings": {},
+	"settings": {"mysite1.code-workspace;"},
 	"launch": {
 		"version": "0.2.0",
 		"configurations": [
